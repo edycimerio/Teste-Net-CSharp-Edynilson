@@ -1,0 +1,17 @@
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\bin\Debug\net6.0\Teste.Blog.Repository.deps.json
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\bin\Debug\net6.0\Teste.Blog.Repository.runtimeconfig.json
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\bin\Debug\net6.0\Teste.Blog.Repository.dll
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\bin\Debug\net6.0\Teste.Blog.Repository.pdb
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\bin\Debug\net6.0\Teste.Blog.Domain.dll
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\bin\Debug\net6.0\Teste.Blog.Domain.pdb
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\obj\Debug\net6.0\Teste.Blog.Repository.csproj.AssemblyReference.cache
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\obj\Debug\net6.0\Teste.Blog.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\obj\Debug\net6.0\Teste.Blog.Repository.AssemblyInfoInputs.cache
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\obj\Debug\net6.0\Teste.Blog.Repository.AssemblyInfo.cs
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\obj\Debug\net6.0\Teste.Blog.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\obj\Debug\net6.0\Teste.Bl.ECA751D4.Up2Date
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\obj\Debug\net6.0\Teste.Blog.Repository.dll
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\obj\Debug\net6.0\refint\Teste.Blog.Repository.dll
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\obj\Debug\net6.0\Teste.Blog.Repository.pdb
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\obj\Debug\net6.0\Teste.Blog.Repository.genruntimeconfig.cache
+C:\Projetos\Testes\Blog\Teste.Blog.API\Teste.Blog.Repository\obj\Debug\net6.0\ref\Teste.Blog.Repository.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aHJOuMW+IbKqybIEn7S6qC+xxPdGnZbabw3hgCkiQvsRztrMH8yoDtk8llaB3mHb5ewd0/ORVXsER4QCjkb5hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Testes\\Blog\\Teste.Blog.API\\Teste.Blog.Domain\\Teste.Blog.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edy\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Edy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
